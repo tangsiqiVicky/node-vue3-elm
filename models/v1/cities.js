@@ -90,3 +90,5 @@ Cities.findOne((err, data) => {
 		Cities.create({data: cityData})
 	}
 })
+
+export default Cities
