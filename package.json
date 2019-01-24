@@ -14,16 +14,16 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
+    "formidable": "^1.1.1",
+    "gm": "^1.23.0",
     "hbs": "~4.0.1",
     "http-errors": "~1.6.2",
     "mocha": "^5.2.0",
+    "mongoose": "^4.9.3",
     "morgan": "~1.9.0",
-    "pinyin": "^2.8.3",
     "node-fetch": "^1.6.3",
-    "gm": "^1.23.0",
-    "qiniu": "^6.1.13",
-    "formidable": "^1.1.1",
-    "mongoose": "^4.9.3"
+    "pinyin": "^2.8.3",
+    "qiniu": "^6.1.13"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
